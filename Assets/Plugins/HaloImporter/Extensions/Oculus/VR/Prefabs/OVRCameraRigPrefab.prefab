@@ -104,7 +104,7 @@ GameObject:
   - component: {fileID: 114559071542865266}
   m_Layer: 0
   m_Name: TrackedRemote
-  m_TagString: Untagged
+  m_TagString: OculusRightRemote
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -253,7 +253,7 @@ GameObject:
   - component: {fileID: 114969773497826738}
   m_Layer: 0
   m_Name: TrackedRemote
-  m_TagString: Untagged
+  m_TagString: OculusLeftRemote
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
