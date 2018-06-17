@@ -110,6 +110,7 @@
      <None Include="Assets\Plugins\HaloImporter\Extensions\Oculus\VR\Resources\Texture2D Blit.shader" />
      <None Include="Assets\Plugins\HaloImporter\Extensions\Oculus\VR\Resources\OVRMRCameraFrame.shader" />
      <None Include="Assets\Plugins\HaloImporter\Extensions\Oculus\VR\Resources\OVRMRClipPlane.shader" />
+     <None Include="Assets\Plugins\HaloImporter\Extensions\Oculus\HaloOculus_Version.txt" />
      <None Include="Assets\Plugins\HaloImporter\Extensions\Oculus\VR\Resources\Underlay Impostor.shader" />
  <Reference Include="Vuforia.UnityExtensions.Editor">
  <HintPath>C:/Program Files/Unity20173/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
